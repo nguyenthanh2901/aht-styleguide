@@ -1,3 +1,5 @@
+0. Trong theme, tao Magento_Theme va copy cac file da tai vao Magento_Theme.
+
 1. Vao trang admin => content => pages tao 1 trang moi, trong phan content them noi dung sau:
 
 <h2>Buttons</h2>
