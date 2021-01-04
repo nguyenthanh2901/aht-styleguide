@@ -72,7 +72,7 @@
 </ul>
 </div>
 
-2. Trong code copy file Magento_Theme vao trong Theme
+2. Trong code copy file Magento_Theme vao trong Theme: Chung ta se dat ten cac bien vao file _theme.less
     - Trong Magento_Theme/web/css/source/ copy file _theme.less vao trong VenderName/ThemeName/web/css/source
 
 3. Chay combo lenh rm -rf var/cache var/page_cache var/view_preprocessed pub/static/frontend/VenderName && php bin/magento s:s:d -f 
